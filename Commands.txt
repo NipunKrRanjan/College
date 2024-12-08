@@ -1,0 +1,13 @@
+git status: checks status
+
+git add -A: adds all the files to the staged area
+
+git commit -m"//comment//": commits all the files
+
+git checkout: undoes the file to the staged condition
+
+git remote set-url origin (no new line)git@github.com:NipunKrRanjan/Repository Name
+:For pushing files in new repository
+
+
+
