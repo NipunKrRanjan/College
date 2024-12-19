@@ -44,8 +44,8 @@ public class Lab2_q4
         r1.length=20;
         c1.r=100;
         s1.side=20;
-        System.out.println("Area and perimeter of rectangle:"+r1.arrec(r1.length, r1.breadth)+r1.perrec(r1.length,r1.breadth));
-        System.out.println("Area and perimeter of circle:"+c1.arcir(c1.r)+c1.prcir(c1.r));
-        System.out.println("Area and perimeter of square:"+s1.arsq(s1.side)+s1.prsq(s1.side));
+        System.out.println("Area and perimeter of rectangle:"+r1.arrec(r1.length, r1.breadth)+" "+r1.perrec(r1.length,r1.breadth));
+        System.out.println("Area and perimeter of circle:"+c1.arcir(c1.r)+" "+c1.prcir(c1.r));
+        System.out.println("Area and perimeter of square:"+s1.arsq(s1.side)+" "+s1.prsq(s1.side));
     }   
 }
