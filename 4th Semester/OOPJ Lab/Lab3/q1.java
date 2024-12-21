@@ -1,3 +1,4 @@
+//Check for Armstrong number//
 package Lab3;
 import java.io.*;
 import java.util.Scanner;
