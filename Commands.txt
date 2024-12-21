@@ -9,5 +9,7 @@ git checkout: undoes the file to the staged condition
 git remote set-url origin (no new line)git@github.com:NipunKrRanjan/Repository Name
 :For pushing files in new repository
 
+git push-to push files in the git hub
+
 
 
