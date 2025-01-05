@@ -1,3 +1,4 @@
+//Check for odd number without using modulus//
 package Lab3;
 
 public class q2
