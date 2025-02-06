@@ -93,4 +93,5 @@ void main()
         temp=temp->next;
         /* code */
     } 
+    free(fnode);
 }
