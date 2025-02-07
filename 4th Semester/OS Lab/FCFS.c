@@ -1,3 +1,4 @@
+// Only for processes with different arrival time
 #include<stdio.h>
 #include<stdlib.h>
 struct process
