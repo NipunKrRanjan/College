@@ -1,3 +1,4 @@
+// Only for processes with different arrival time
 #include<stdio.h>
 #include<stdlib.h>
 struct process
@@ -93,4 +94,5 @@ void main()
         temp=temp->next;
         /* code */
     } 
+    free(fnode);
 }
