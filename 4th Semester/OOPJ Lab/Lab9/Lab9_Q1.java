@@ -1,4 +1,4 @@
- class Parent 
+class Parent 
  {
         void method() 
         throws Exception 

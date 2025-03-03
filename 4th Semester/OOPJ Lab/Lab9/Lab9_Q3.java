@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Stack;
 class CheckArgument extends Exception
 {
     public CheckArgument(String s)
@@ -36,7 +35,7 @@ public class Lab9_Q3
         Scanner sc=new Scanner(System.in);
         while (true) 
         { 
-           System.out.println("Enter choice\n 1:To input number \n2:To exit");
+           System.out.println("Enter choice\n1:To input number \n2:To exit");
            int ch=sc.nextInt();
            if(ch==1)
            {
